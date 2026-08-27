@@ -1,0 +1,55 @@
+==========================================
+ DEVOPS LOCAL ENVIRONMENT VERIFICATION
+==========================================
+
+macOS:
+26.5
+
+Architecture:
+arm64
+
+Git:
+git version 2.50.1 (Apple Git-155)
+
+VS Code:
+1.132.0
+
+Docker:
+Docker version 29.6.2, build dfc4efb
+
+Docker Compose:
+Docker Compose version v5.3.1
+
+kubectl:
+  gitVersion: v1.36.3
+
+Minikube:
+v1.38.1
+
+Helm:
+v4.2.4+g3900f43
+
+Terraform:
+Terraform v1.15.8
+
+Ansible:
+ansible [core 2.21.3]
+
+jq:
+jq-1.8.2
+
+Node.js:
+v26.7.0
+
+npm:
+11.19.0
+
+AWS CLI:
+aws-cli/2.36.23 Python/3.14.7 Darwin/25.5.0 source/arm64
+
+Azure CLI:
+azure-cli                         2.89.1
+
+==========================================
+ VERIFICATION COMPLETE
+==========================================
